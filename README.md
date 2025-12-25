@@ -1,2 +1,2 @@
 # Data-Analysis
-Language: Python. Data analysis for quantitative social research. This includes basic descriptive statistics, comparing means between groups, and correlation analysis.
+This repository contains a Python-based data analysis script for quantitative social research, providing tools for basic descriptive statistics, comparison of group means, and correlation analysis.
